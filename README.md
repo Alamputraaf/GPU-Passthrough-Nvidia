@@ -25,4 +25,4 @@ Kernel:5.15.28-1 Manjaro
 
 Previously, I had tried using the Single GPU-Passthorugh from Mutahar tutorial and many youtubers on the internet with hooks helper script, but it always ended up kicking me into the SDDM login again and again. And ended up with Hybrid Graphics for now.
 
-This Project thanks a lot to My Favorite Youtuber 'Mutahar' @Someordinarygamers, Reddit Community R/VFIO and many more in documentation.
+This Project thanks a lot to My Favorite Youtuber 'Mutahar' @Someordinarygamers, Reddit Community r/VFIO and many more in documentation.
