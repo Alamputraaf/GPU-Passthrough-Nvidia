@@ -1,0 +1,23 @@
+Source:
+
+Totally Thank You Mutahar, for sharing this method
+https://www.youtube.com/watch?v=h7SG7ccjn-g
+
+PCI passthrough OVMF Arch Wiki and cpu pinning
+https://wiki.archlinux.org/title/PCI_passthrough_via_OVMF
+
+Installing Nvidia Optimus Manager
+https://www.youtube.com/watch?v=jncc3QL8RWI&t=338s
+
+HDMI black screen fix
+https://wiki.archlinux.org/title/PCI_passthrough_via_OVMF
+https://forum.manjaro.org/t/video-hybrid-amd-nvidia-prime-no-hdmi-on-dual-gpu-laptop/59782/26 (fix HDMI output black screen)
+
+Windows 11 Bypass TPM 
+https://www.bleepingcomputer.com/news/microsoft/how-to-bypass-the-windows-11-tpm-20-requirement/
+
+Fix Code 31 and Code 43 Nvidia
+https://mathiashueber.com/pci-passthrough-ubuntu-2004-virtual-machine/
+https://forum.level1techs.com/t/thinkpad-x1-extreme-nvidia-passthrough-code-31/155148
+https://gist.github.com/nop-90/5b2d5a4a686cdc0586cb2854126a9ec8
+https://leduccc.medium.com/simple-dgpu-passthrough-on-a-dell-precision-7450-ebe65b2e648e
